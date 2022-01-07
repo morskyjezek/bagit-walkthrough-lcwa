@@ -1,0 +1,7 @@
+lcwa-metadata/lcwa_gov_audio_metadata.csv:      text/plain; charset=iso-8859-1
+lcwa-metadata/lcwa_gov_csv_metadata.csv:        text/plain; charset=us-ascii
+lcwa-metadata/lcwa_gov_image_metadata.csv:      text/plain; charset=utf-16le
+lcwa-metadata/lcwa_gov_pdf_metadata.csv:        text/plain; charset=iso-8859-1
+lcwa-metadata/lcwa_gov_powerpoint_metadata.csv: application/octet-stream; charset=binary
+lcwa-metadata/lcwa_gov_tsv_metadata.csv:        text/plain; charset=us-ascii
+lcwa-metadata/lcwa_gov_xls_metadata.csv:        text/plain; charset=us-ascii
