@@ -19,6 +19,16 @@ generate basic preservation information about a group of files,
 including create of fixity information (checksums),
 inventories (manifests), and other metadata useful for transfer and storage of digital objects.
 
+## Notes
+
+This note from [LoC](https://github.com/LibraryOfCongress/bagit-conformance-suite):
+
+* Git's `core.autocrlf` setting can cause bag validation failures by converting CRLF files automatically depending on your operating system and configuration. It is recommended that you disable it in your local checkout of this repository:
+
+  `git config core.autocrlf false`
+
+* Additionally, the below option to run the demonstration in binder may encounter problems since the binder environment may be challenged in running some commands against the virtual file system.
+
 ## Try it in Binder
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/morskyjezek/bagit-walkthrough-lcwa/main)
