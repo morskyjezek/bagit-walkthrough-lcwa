@@ -1,3 +1,11 @@
 Bag-Software-Agent: bagit.py v1.8.1 <https://github.com/LibraryOfCongress/bagit-python>
 Bagging-Date: 2022-01-08
+Collected-Date: 2021-10-12
+Contact-Email: hello@some.email
+Contact-Name: Anonymous
+Demonstration-Date: 2022-01-08
+External-Description: These are sample files from the Library of Congress Web Archives that we wanted to structure in BagIt for practice.
+External-Identifier: myfiles:documents/test/files/1234
 Payload-Oxum: 26923687.23
+Source-Organization: Data Curation Training Pros, via Library of Congress (LC)
+Source-URL: https://www.loc.gov/programs/web-archiving/about-this-program/
