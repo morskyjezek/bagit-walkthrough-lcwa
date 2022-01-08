@@ -21,4 +21,4 @@ inventories (manifests), and other metadata useful for transfer and storage of d
 
 ## Try it in Binder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/morskyjezek/bagit-walkthrough-lcwa/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/morskyjezek/bagit-walkthrough-lcwa/main)
