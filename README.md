@@ -7,16 +7,16 @@ This repository holds materials for use in learning digital curation tools and c
 Using the BagIt standard, this repository outlines the elements
 of file packages created according to the BagIt structure ("bags"),
 how to organize files for these structures, initiate them with Python-based
-tools, and how to analyze, update, and plan them. 
+tools, and how to analyze, update, and plan them.
 
 The use case here is to explain how to create file packages that can be
 reliably transmitted to a digital repository or archival storage entity,
 how those packages can be validated, and how this structure is used
-in various repositories managed by institutions. 
+in various repositories managed by institutions.
 
 The demonstrates shows how you can use BagIt and associated tools to
-generate basic preservation information about a group of files, 
-including create of fixity information (checksums), 
+generate basic preservation information about a group of files,
+including create of fixity information (checksums),
 inventories (manifests), and other metadata useful for transfer and storage of digital objects.
 
 ## Try it in Binder
