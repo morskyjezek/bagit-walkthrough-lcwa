@@ -24,7 +24,13 @@ After completing this lesson, learners should be able to:
 * Use the Python `bagit` module to create a BagIt object and generate basic preservation information about a group of files, including fixity information (checksums), inventories (manifests), and other metadata useful for transfer and storage of digital objects.
 
 A longer lesson would include:
+
 * Identify particular use cases and digital curation activities or problems in which BagIt may be a useful tool.
+
+## Resources for the demonstration
+
+1. [Slides for Bagit explanation](BagitOverview.pdf)
+1. [Notebook for creating a BagIt object](01b-using-bagit-toteach.ipynb)
 
 ## Notes
 
