@@ -32,7 +32,3 @@ This note from [LoC](https://github.com/LibraryOfCongress/bagit-conformance-suit
   `git config core.autocrlf false`
 
 * Additionally, the below option to run the demonstration in binder may encounter problems since the binder environment may be challenged in running some commands against the virtual file system.
-
-## Try it in Binder
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/morskyjezek/bagit-walkthrough-lcwa/main)
