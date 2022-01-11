@@ -27,10 +27,21 @@ A longer lesson would include:
 
 * Identify particular use cases and digital curation activities or problems in which BagIt may be a useful tool.
 
-## Resources for the demonstration
+## Learning Resources
 
 1. [Slides for Bagit explanation](BagitOverview.pdf)
 1. [Notebook for creating a BagIt object](01b-using-bagit-toteach.ipynb)
+
+## Assumptions
+
+I’m making a few assumptions about what sorts of background you might already have, 
+including that you have some level of comfort with the following:
+
+* working with files on a computer (Windows, Mac, Linux, or other filesystem environments),
+* that you can find and open files from an Explorer (Windows) or Finder (Mac) graphical interface,
+* that you have done a some basic navigation in a shell environment (e.g., Terminal or Bash shell or GitBash) including finding files and directories,
+* you have a familiarity with the Python programming language, including using it from an interactive notebook environment (Jupyter notebooks), and
+* downloading files from GitHub, opening them on your computer or workstation, and running Jupyter notebooks.
 
 ## Notes
 
