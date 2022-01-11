@@ -26,11 +26,8 @@ After completing this lesson, learners should be able to:
 A longer lesson would include:
 
 * Identify particular use cases and digital curation activities or problems in which BagIt may be a useful tool.
-
-## Learning Resources
-
-1. [Slides for Bagit explanation](BagitOverview.pdf)
-1. [Notebook for creating a BagIt object](01b-using-bagit-toteach.ipynb)
+* Significance of validation and how to implement validation using `bagit`.
+* How to add contents to a complete BagIt object, update tag metadata, and update manifests. 
 
 ## Assumptions
 
@@ -42,6 +39,11 @@ including that you have some level of comfort with the following:
 * that you have done a some basic navigation in a shell environment (e.g., Terminal or Bash shell or GitBash) including finding files and directories,
 * you have a familiarity with the Python programming language, including using it from an interactive notebook environment (Jupyter notebooks), and
 * downloading files from GitHub, opening them on your computer or workstation, and running Jupyter notebooks.
+
+## Learning Resources
+
+1. [Slides for Bagit explanation](BagitOverview.pdf)
+1. [Notebook for creating a BagIt object](01b-using-bagit-toteach.ipynb)
 
 ## Notes
 
