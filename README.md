@@ -18,11 +18,13 @@ how those packages can be validated.
 
 After completing this lesson, learners should be able to:
 
-* Understand what BagIt is and be able to explain the basic structure of a BagIt digital object.
-* Identify particular use cases and digital curation activities or problems in which BagIt may be a useful tool.
+* Understand what BagIt is and explain the basic structure of a BagIt digital object.
 * Explain why BagIt is useful for digital preservation and what digital preservation and curation functions BagIt may support.
 * Identify Python-based and shell tools that can be used to create, analyze, and validate BagIt objects.
 * Use the Python `bagit` module to create a BagIt object and generate basic preservation information about a group of files, including fixity information (checksums), inventories (manifests), and other metadata useful for transfer and storage of digital objects.
+
+A longer lesson would include:
+* Identify particular use cases and digital curation activities or problems in which BagIt may be a useful tool.
 
 ## Notes
 
