@@ -4,20 +4,24 @@ This repository holds materials for use in learning digital curation tools and c
 
 ## Lesson Concept: Demonstrate BagIt Structure and Creation Tools
 
-Using the BagIt standard, this repository outlines the elements
-of file packages created according to the BagIt structure ("bags"),
-how to organize files for these structures, initiate them with Python-based
-tools, and how to analyze, update, and plan them.
+This repository explains and situates the BagIt file packaging specification,
+outlines the elements of file packages created according to the BagIt structure
+("bags"), and then demonstrates how to create, assess, and maintain BagIt-conformant
+bags using Python-based tools.
 
-The use case here is to explain how to create file packages that can be
-reliably transmitted to a digital repository or archival storage entity,
-how those packages can be validated, and how this structure is used
-in various repositories managed by institutions.
+The goal is to demonstrate how computational tools (in this case, Python,
+Jupyter notebooks, and Git) can be used to create file packages that can be
+reliably transmitted to a digital repository or archival storage entity and
+how those packages can be validated.
 
-The demonstrates shows how you can use BagIt and associated tools to
-generate basic preservation information about a group of files,
-including create of fixity information (checksums),
-inventories (manifests), and other metadata useful for transfer and storage of digital objects.
+## Learning Objectives
+
+After completing this lesson, learners should be able to:
+
+* Understand what BagIt is and be able to explain the basic structure of a BagIt digital object.
+* Explain why BagIt is useful for digital preservation and what digital preservation and curation functions BagIt may support.
+* Identify Python-based and shell tools that can be used to create, analyze, and validate BagIt objects.
+* Use the Python `bagit` module to create a BagIt object and generate basic preservation information about a group of files, including fixity information (checksums), inventories (manifests), and other metadata useful for transfer and storage of digital objects.
 
 ## Notes
 
