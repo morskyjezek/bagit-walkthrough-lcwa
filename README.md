@@ -1,6 +1,6 @@
 # Demonstrating BagIt Concept and Tools
 
-This repository holds materials for use in learning digital curation tools and concepts from archival and library perspectives. Specifically, this repository explains the **BagIt** concept and associated, Python-based tools; these concepts and tools are demonstrated using sample files from the Library of Congress Web Archvies (LCWA). This short demonstration lesson was created as part of work on a larger set of lessons that outlines additional digital curation and preservation actions associated with all elements of the digital curation lifecycle.
+This repository holds materials for use in learning digital curation tools and concepts from archival and library perspectives. Specifically, this repository explains the **BagIt** specification (IETF RFC 8493) and associated, Python-based tools; these concepts and tools are demonstrated using sample files from the Library of Congress Web Archvies (LCWA). This short demonstration lesson was created as part of work on a larger set of lessons that outlines additional digital curation and preservation actions associated with all elements of the digital curation lifecycle.
 
 ## Lesson Concept: Demonstrate BagIt Structure and Creation Tools
 
