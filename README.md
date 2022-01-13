@@ -44,6 +44,7 @@ including that you have some level of comfort with the following:
 
 1. [Slides for Bagit explanation](BagitOverview.pdf)
 1. [Notebook for creating a BagIt object](01b-using-bagit-toteach.ipynb)
+1. [Example of a production BagIt object at the National Digital Newspaper Program](https://chroniclingamerica.loc.gov/data/batches/az_acacia_ver01/)
 
 ## Notes
 
