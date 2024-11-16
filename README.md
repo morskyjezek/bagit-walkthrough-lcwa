@@ -66,4 +66,4 @@ are similarly freely available and give credit to this author and verison.
 This leson may be cited as Jesse A. Johnston, "Using BagIt Tutorial v1.1," udpated November 2024. DOI: [10.5281/zenodo.14173603](https://doi.org/10.5281/zenodo.14173603).
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14173603.svg)](https://doi.org/10.5281/zenodo.14173603)
-[![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
