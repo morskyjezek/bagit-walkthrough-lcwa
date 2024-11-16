@@ -55,3 +55,15 @@ This note from [LoC](https://github.com/LibraryOfCongress/bagit-conformance-suit
   `git config core.autocrlf false`
 
 * Additionally, the below option to run the demonstration in binder may encounter problems since the binder environment may be challenged in running some commands against the virtual file system.
+
+## Citation and License
+
+This lesson tutorial was authored by Jesse A. Johnston and is made available
+on GitHub under a CreativeCommons BY-SA license, which means you are free to reuse
+the lesson, update or adapt it into a new form, as long as any uses or derivates
+are similarly freely available and give credit to this author and verison.
+
+This leson may be cited as Jesse A. Johnston, "Using BagIt Tutorial v1.1," udpated November 2024. DOI: [10.5281/zenodo.14173603](https://doi.org/10.5281/zenodo.14173603).
+
+[![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14173603.svg)](https://doi.org/10.5281/zenodo.14173603)
