@@ -63,7 +63,7 @@ on GitHub under a CreativeCommons BY-SA license, which means you are free to reu
 the lesson, update or adapt it into a new form, as long as any uses or derivates
 are similarly freely available and give credit to this author and verison.
 
-This lesson may be cited as Jesse A. Johnston, "Using BagIt Tutorial v1.1," udpated November 2024. DOI: [10.5281/zenodo.14173603](https://doi.org/10.5281/zenodo.14173603).
+This lesson may be cited as: Jesse A. Johnston, "Using BagIt Tutorial v1.1," udpated November 2024. DOI: [10.5281/zenodo.14173603](https://doi.org/10.5281/zenodo.14173603).
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14173603.svg)](https://doi.org/10.5281/zenodo.14173603)
 [![ORCiD](https://img.shields.io/badge/ORCiD-0000--0003--2617--0166?color=A6CE39)](https://orcid.org/0000-0003-2617-0166)
