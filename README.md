@@ -27,7 +27,7 @@ A longer lesson would include:
 
 * Identify particular use cases and digital curation activities or problems in which BagIt may be a useful tool.
 * Significance of validation and how to implement validation using `bagit`.
-* How to add contents to a complete BagIt object, update tag metadata, and update manifests. 
+* How to add contents to a complete BagIt object, update tag metadata, and update manifests.
 
 ## Assumptions
 
